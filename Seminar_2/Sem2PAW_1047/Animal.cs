@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sem2PAW_1047
+{
+    class Animal: ICloneable, IComparable
+    {
+        private int varsta;
+        private string nume;
+        private float greutate;
+
+        public int Varsta { get => varsta; set => varsta = value; }
+        public string Nume { get => nume; set => nume = value; }
+        public float Greutate { get => greutate; set => greutate = value; }
+
+        public Animal()
+        {
+            varsta = 0;
+            nume = "Anonim";
+            greutate = 0.0f;
+        }
+
+        public Animal(int v, string n, float g)
+        {
+            this.varsta = v;
+            this.nume = n;
+            this.greutate = g;
+        }
+
+        public Animal(Animal a)
+        {
+            this.varsta = a.varsta;
+            this.nume = a.nume;
+            this.greutate = a.greutate;
+        }
+
+        public override string ToString()
+        {
+            return "Animalul " + nume + " cu varsta " + varsta + " are greutatea " + greutate;
+        }
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
+        }
+
+        public int CompareTo(object obj)
+        {
+            Animal a = (Animal)obj;
+            if (this.varsta > a.varsta)
+                return -1;
+            else
+                if (this.varsta < a.varsta)
+                return 1;
+            else
+                return string.Compare(this.nume, a.nume);
+        }
+    }
+}

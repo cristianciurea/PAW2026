@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Sem2PAW_1045\bin\Debug\Sem2PAW_1045.exe.config
+C:\Users\Administrator\Desktop\Sem2PAW_1045\bin\Debug\Sem2PAW_1045.exe
+C:\Users\Administrator\Desktop\Sem2PAW_1045\bin\Debug\Sem2PAW_1045.pdb
+C:\Users\Administrator\Desktop\Sem2PAW_1045\obj\Debug\Sem2PAW_1045.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sem2PAW_1045\obj\Debug\Sem2PAW_1045.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem2PAW_1045\obj\Debug\Sem2PAW_1045.exe
+C:\Users\Administrator\Desktop\Sem2PAW_1045\obj\Debug\Sem2PAW_1045.pdb
