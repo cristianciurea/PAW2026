@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\bin\Debug\WindowsFormsControlLibrary1045.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\bin\Debug\WindowsFormsControlLibrary1045.pdb
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\obj\Debug\WindowsFormsControlLibrary1045.DataCeas.resources
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\obj\Debug\WindowsFormsControlLibrary1045.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\obj\Debug\WindowsFormsControlLibrary1045.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\obj\Debug\WindowsFormsControlLibrary1045.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1045\obj\Debug\WindowsFormsControlLibrary1045.pdb

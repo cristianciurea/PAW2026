@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\bin\Debug\WindowsFormsControlLibrary1047.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\bin\Debug\WindowsFormsControlLibrary1047.pdb
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\obj\Debug\WindowsFormsControlLibrary1047.DataOra.resources
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\obj\Debug\WindowsFormsControlLibrary1047.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\obj\Debug\WindowsFormsControlLibrary1047.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\obj\Debug\WindowsFormsControlLibrary1047.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1047\obj\Debug\WindowsFormsControlLibrary1047.pdb
